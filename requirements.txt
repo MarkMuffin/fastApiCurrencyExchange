@@ -1,0 +1,6 @@
+fastApi
+pandas
+sqlalchemy
+psycopg2-binary
+uvicorn
+fastapi-utils
